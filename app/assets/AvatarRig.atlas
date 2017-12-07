@@ -1,0 +1,153 @@
+
+AvatarRig.png
+size: 1543,1543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+StarEffect
+  rotate: false
+  xy: 1348, 850
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+TearsEffect
+  rotate: true
+  xy: 836, 761
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+avatarEarL
+  rotate: true
+  xy: 833, 40
+  size: 126, 165
+  orig: 126, 165
+  offset: 0, 0
+  index: -1
+avatarEarR
+  rotate: true
+  xy: 0, 0
+  size: 126, 165
+  orig: 126, 165
+  offset: 0, 0
+  index: -1
+avatarFaceFemale
+  rotate: true
+  xy: 429, 345
+  size: 400, 427
+  orig: 400, 427
+  offset: 0, 0
+  index: -1
+avatarFaceMale
+  rotate: true
+  xy: 1105, 5
+  size: 400, 427
+  orig: 400, 427
+  offset: 0, 0
+  index: -1
+avatarFinger
+  rotate: false
+  xy: 1458, 895
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+avatarFoot
+  rotate: true
+  xy: 1348, 953
+  size: 156, 141
+  orig: 156, 141
+  offset: 0, 0
+  index: -1
+avatarForearms
+  rotate: false
+  xy: 0, 128
+  size: 673, 215
+  orig: 673, 215
+  offset: 0, 0
+  index: -1
+avatarHand
+  rotate: true
+  xy: 748, 757
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+avatarHead
+  rotate: false
+  xy: 1105, 407
+  size: 400, 427
+  orig: 400, 427
+  offset: 0, 0
+  index: -1
+avatarLegs
+  rotate: false
+  xy: 748, 836
+  size: 298, 273
+  orig: 298, 273
+  offset: 0, 0
+  index: -1
+avatarThumb
+  rotate: false
+  xy: 836, 785
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+placeholderBackpack
+  rotate: false
+  xy: 0, 747
+  size: 746, 796
+  orig: 746, 796
+  offset: 0, 0
+  index: -1
+placeholderForearms
+  rotate: false
+  xy: 748, 1111
+  size: 673, 215
+  orig: 673, 215
+  offset: 0, 0
+  index: -1
+placeholderHeadwear
+  rotate: true
+  xy: 0, 345
+  size: 400, 427
+  orig: 400, 427
+  offset: 0, 0
+  index: -1
+placeholderPants
+  rotate: false
+  xy: 1048, 836
+  size: 298, 273
+  orig: 298, 273
+  offset: 0, 0
+  index: -1
+placeholderShirt
+  rotate: true
+  xy: 889, 168
+  size: 666, 214
+  orig: 666, 214
+  offset: 0, 0
+  index: -1
+placeholderShoeL
+  rotate: false
+  xy: 675, 44
+  size: 156, 141
+  orig: 156, 141
+  offset: 0, 0
+  index: -1
+placeholderShoeR
+  rotate: true
+  xy: 675, 187
+  size: 156, 141
+  orig: 156, 141
+  offset: 0, 0
+  index: -1
+placeholderTorso
+  rotate: false
+  xy: 748, 1328
+  size: 673, 215
+  orig: 673, 215
+  offset: 0, 0
+  index: -1
